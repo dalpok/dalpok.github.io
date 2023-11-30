@@ -1,0 +1,11 @@
+body{
+    background-image: url('gif.gif');
+}
+.dalmem{
+    text-align: justify;
+    width: inherit;
+    height: inherit;
+}
+a{
+    color: gray;
+}
